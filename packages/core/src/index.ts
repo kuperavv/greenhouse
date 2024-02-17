@@ -1,4 +1,4 @@
-const func = () =>{
+const func = (): void => {
     console.log('hello')
 }
 
