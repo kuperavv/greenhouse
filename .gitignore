@@ -1,8 +1,0 @@
-node_modules
-.DS_Store
-
-lerna-debug.log
-npm-debug.log
-packages/*/build
-apps/*/build
-.idea
