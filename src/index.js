@@ -20,6 +20,6 @@ app.post("/data", (req, res) => {
     res.sendStatus(200)
 })
 
-app.listen(PORT, "10.0.0.164", () => {
+app.listen(PORT, () => {
     console.log(`listening on port ${PORT}`)
 })
