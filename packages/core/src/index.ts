@@ -1,5 +1,5 @@
 const func = (): void => {
-    console.log('hello')
+    console.log('terst')
 }
 
 func()
