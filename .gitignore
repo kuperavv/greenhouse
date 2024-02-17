@@ -3,6 +3,6 @@ node_modules
 
 lerna-debug.log
 npm-debug.log
-packages/*/lib
-apps/*/lib
+packages/*/build
+apps/*/build
 .idea
